@@ -1,0 +1,14 @@
+{
+  "name": "gangfirst",
+  "version": "1.0.7",
+  "description": "求和测试包",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gangdage",
+  "license": "MIT",
+  "keywords": [
+    "111111"
+  ]
+}
